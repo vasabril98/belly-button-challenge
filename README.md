@@ -8,7 +8,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Instructions
 Complete the following steps:
 
-1. Use the D3 library to read in samples.json from the (URL)[https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json]
+1. Use the D3 library to read in samples.json from the [URL](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json)
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
@@ -40,7 +40,7 @@ Complete the following steps:
 
 ## Advanced Challenge
 
-Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+Adapt the [Gauge Chart](https://plot.ly/javascript/gauge-charts/) to plot the weekly washing frequency of the individual.
 
     * You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
