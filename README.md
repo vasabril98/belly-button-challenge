@@ -36,7 +36,7 @@ Complete the following steps:
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
-7. Deploy your app to a free static page hosting service, such as GitHub Pages. link
+7. Deploy your app to a free static page hosting service, such as GitHub Pages. [Link to Website](https://vasabril98.github.io/)
 
 ## Advanced Challenge
 
